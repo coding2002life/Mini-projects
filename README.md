@@ -1,3 +1,17 @@
+# 30 Days of Web Development 💻
+> It is a self learning track on web dev from basic, which is presented by 
+
+
+## Day 1 : Understanding Basic Terminologies
+>Before learning Web Development we must have the basic knowledge about **internet, browsers, networks** and their working.🌐
+</blockquote>
+<ul>
+<li>bullet 1</li>
+<li>bullet 2</li>
+</ul>
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mansicoder/Mini-projects/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
